@@ -1,0 +1,216 @@
+{
+    "header": {
+        "logo": "Destination Germany",
+        "links": [
+            {
+                "label": "For Companies",
+                "href": "#",
+                "sublinks": [
+                    {
+                        "label": "Hire Skilled Workers",
+                        "href": "/hire-skilled-workers"
+                    },
+                    {
+                        "label": "For Clinics & Care Facilities",
+                        "href": "/clinics-care"
+                    },
+                    {
+                        "label": "For Industrial Companies",
+                        "href": "/industrial"
+                    },
+                    {
+                        "label": "For Restaurants & Hotels",
+                        "href": "/hospitality"
+                    }
+                ]
+            },
+            {
+                "label": "For Candidates",
+                "href": "#",
+                "sublinks": [
+                    {
+                        "label": "Job Openings",
+                        "href": "/job-openings"
+                    },
+                    {
+                        "label": "Working in Germany",
+                        "href": "/working-in-germany"
+                    }
+                ]
+            },
+            {
+                "label": "Success Stories",
+                "href": "/success-stories"
+            },
+            {
+                "label": "About Us",
+                "href": "/about"
+            },
+            {
+                "label": "Blog",
+                "href": "/blog"
+            }
+        ],
+        "cta": {
+            "label": "Contact",
+            "href": "/contact"
+        }
+    },
+    "footer": {
+        "address": "Destination Germany\nSample Street 123\n12345 City, Germany",
+        "email": "info@destinationgermany.de",
+        "links": [
+            {
+                "label": "Imprint",
+                "href": "/imprint"
+            },
+            {
+                "label": "Privacy Policy",
+                "href": "/privacy"
+            }
+        ]
+    },
+    "pages": {
+        "home": {
+            "sections": [
+                {
+                    "type": "hero",
+                    "data": {
+                        "title": "Experienced, German-speaking, and ready for your clinic or care facility.",
+                        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+                        "cta": "Contact us without obligation"
+                    }
+                },
+                {
+                    "type": "features",
+                    "data": {
+                        "title": "Why Choose Us?",
+                        "items": [
+                            {
+                                "title": "Worldwide Candidate Access",
+                                "description": "Lorem ipsum dolor.",
+                                "icon": "globe"
+                            },
+                            {
+                                "title": "Full Process Management",
+                                "description": "Duis aute irure dolor.",
+                                "icon": "cog"
+                            },
+                            {
+                                "title": "Specialized Matching",
+                                "description": "Excepteur sint occaecat.",
+                                "icon": "users"
+                            },
+                            {
+                                "title": "On-site Presence",
+                                "description": "Sed ut perspiciatis.",
+                                "icon": "map-pin"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "testimonials",
+                    "data": {
+                        "title": "Success Stories",
+                        "items": [
+                            {
+                                "name": "Anurag Joseph",
+                                "role": "Nurse",
+                                "quote": "Lorem ipsum dolor.",
+                                "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=300&q=80"
+                            },
+                            {
+                                "name": "Ashwini Warghade",
+                                "role": "Caregiver",
+                                "quote": "Ut enim ad minim veniam.",
+                                "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "partners",
+                    "data": {
+                        "title": "Our Partners",
+                        "logos": [
+                            "https://via.placeholder.com/150x50?text=Partner+1",
+                            "https://via.placeholder.com/150x50?text=Partner+2"
+                        ]
+                    }
+                }
+            ]
+        },
+        "hire-skilled-workers": {
+            "sections": [
+                {
+                    "type": "hero",
+                    "data": {
+                        "title": "Filling vacancies — with the best talent worldwide",
+                        "subtitle": "We find your employees in Germany and worldwide. We take care of the entire process for you!",
+                        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80",
+                        "cta": "Contact us without obligation",
+                        "tags": [
+                            "INCLUDES VISA, HEALTH INSURANCE, AIRPORT PICKUP, ETC."
+                        ]
+                    }
+                },
+                {
+                    "type": "features",
+                    "data": {
+                        "title": "Our Services for Companies",
+                        "items": [
+                            {
+                                "title": "Targeted Recruiting",
+                                "description": "Identifying the best talent for your needs.",
+                                "icon": "target"
+                            },
+                            {
+                                "title": "Visa Support",
+                                "description": "Handling all immigration paperwork.",
+                                "icon": "file-text"
+                            },
+                            {
+                                "title": "Integration",
+                                "description": "Helping new hires settle in.",
+                                "icon": "home"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "job-openings": {
+            "sections": [
+                {
+                    "type": "job-board",
+                    "data": {
+                        "missionTitle": "Join Our Mission to Transform the Future of International Recruiting",
+                        "missionLogo": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+                        "jobListTitle": "Jobs at Destination Germany GmbH",
+                        "jobCount": "12 open positions",
+                        "jobs": [
+                            {
+                                "title": "Apprenticeship: Technical Fabricator (m/f/d)",
+                                "applyLink": "https://www.careers-page.com/destinationgermany/job/1"
+                            },
+                            {
+                                "title": "Service technician for hydrogen trucks",
+                                "applyLink": "https://www.careers-page.com/destinationgermany/job/2"
+                            },
+                            {
+                                "title": "Service technician for laboratory equipment, Southwest Germany",
+                                "applyLink": "https://www.careers-page.com/destinationgermany/job/3"
+                            },
+                            {
+                                "title": "CNC machine setter",
+                                "applyLink": "https://www.careers-page.com/destinationgermany/job/4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
