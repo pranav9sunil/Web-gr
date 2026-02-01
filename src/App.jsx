@@ -22,6 +22,7 @@ function App() {
           <Route path="/" element={<DynamicPage pageData={data.pages.home} />} />
           <Route path="/hire-skilled-workers" element={<DynamicPage pageData={data.pages['hire-skilled-workers']} />} />
           <Route path="/job-openings" element={<DynamicPage pageData={data.pages['job-openings']} />} />
+          <Route path="/about" element={<DynamicPage pageData={data.pages['about']} />} />
 
           {/* Fallback for other pages if we add them to JSON later without updating App.jsx explicitly? 
               For now, specific routes are safer. */}

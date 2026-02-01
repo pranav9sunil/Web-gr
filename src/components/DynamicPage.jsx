@@ -5,6 +5,10 @@ import Testimonials from './Testimonials';
 import Process from './Process';
 import Partners from './Partners';
 import JobBoard from './JobBoard';
+import AboutHero from './AboutHero';
+import TextBlock from './TextBlock';
+import TeamGrid from './TeamGrid';
+import VisionMission from './VisionMission';
 
 const SECTION_COMPONENTS = {
     hero: Hero,
@@ -13,6 +17,10 @@ const SECTION_COMPONENTS = {
     process: Process,
     partners: Partners,
     'job-board': JobBoard,
+    'about-hero': AboutHero,
+    'text-block': TextBlock,
+    'team-grid': TeamGrid,
+    'vision-mission': VisionMission,
 };
 
 const DynamicPage = ({ pageData }) => {

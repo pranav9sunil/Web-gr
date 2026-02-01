@@ -211,6 +211,85 @@
                     }
                 }
             ]
+        },
+        "about": {
+            "sections": [
+                {
+                    "type": "about-hero",
+                    "data": {
+                        "title": "About Destination Germany",
+                        "subtitle": "Back to the days of plenty of applications!",
+                        "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+                        "overlayText": "With social media recruiting and international candidates, we bring you back to the time when you had enough applications."
+                    }
+                },
+                {
+                    "type": "text-block",
+                    "data": {
+                        "heading": "Destination Germany – Improving recruitment using modern methods",
+                        "paragraphs": [
+                            "The shortage of skilled workers has become one of the biggest challenges for many companies in Germany. Vacancies cannot be filled, or at least not adequately. This slows down company growth or even leads to economic stagnation.",
+                            "At Destination Germany, we want to change that. We're committed to a modern approach using cutting-edge technology. Through performance recruiting, we find the most suitable candidates for companies worldwide. Numerous satisfied clients confirm our success in becoming THE specialist for international recruiting in Germany.",
+                            "By looking beyond just requirements and resumes, we find the right match for every position. This benefits not only companies but also international professionals who profit from a career change and relocation to Germany."
+                        ]
+                    }
+                },
+                {
+                    "type": "team-grid",
+                    "data": {
+                        "members": [
+                            {
+                                "name": "Latoya Wild",
+                                "role": "Recruiter",
+                                "image": "https://randomuser.me/api/portraits/women/44.jpg"
+                            },
+                            {
+                                "name": "Patrizia Pellegrino",
+                                "role": "HR Consultant",
+                                "image": "https://randomuser.me/api/portraits/women/65.jpg"
+                            },
+                            {
+                                "name": "Lea Glöckle",
+                                "role": "Business Development",
+                                "image": "https://randomuser.me/api/portraits/women/33.jpg"
+                            },
+                            {
+                                "name": "Aswinlal Bindulal",
+                                "role": "Marketing Manager",
+                                "image": "https://randomuser.me/api/portraits/men/42.jpg"
+                            },
+                            {
+                                "name": "Ramneetpal Kaur",
+                                "role": "Graphic Designer",
+                                "image": "https://randomuser.me/api/portraits/women/68.jpg"
+                            },
+                            {
+                                "name": "Christian Ramm",
+                                "role": "Management Consultant",
+                                "image": "https://randomuser.me/api/portraits/men/74.jpg"
+                            },
+                            {
+                                "name": "Ulrich Lang",
+                                "role": "Management Consultant",
+                                "image": "https://randomuser.me/api/portraits/men/32.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "vision-mission",
+                    "data": {
+                        "vision": {
+                            "title": "Our vision:",
+                            "text": "We open up a whole new world of recruiting for companies and take them back to a time when they had enough applicants."
+                        },
+                        "mission": {
+                            "title": "Our mission:",
+                            "text": "We use social media recruiting to find the best employees for our clients – in Germany and worldwide."
+                        }
+                    }
+                }
+            ]
         }
     }
 }
